@@ -20,7 +20,7 @@ body {
 }
 
 .main-content {
-  background-image: url('./src/assets/dark-street.jpeg');
+  background-image: url('../src/assets/dark-street.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   /* background-image: url('./src/assets/euro.webp'); */
