@@ -22,7 +22,7 @@ body {
 .main-content {
   background-image: url('./src/assets/euro.webp');
   background-color: #cccccc;
-  background-blend-mode:luminosity;
+  /* background-blend-mode:overlay; */
   flex: 1;
 }
 
@@ -536,9 +536,7 @@ body {
 .feature p{
   color: black;
 }
-.about-section{
-  color:black;
-}
+
 .culture-section{
   /* background-color: red; */
   background: url('../src/assets/culture1.jpeg');
