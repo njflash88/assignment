@@ -20,7 +20,10 @@ body {
 }
 
 .main-content {
-  background-image: url('./src/assets/euro.webp');
+  background-image: url('./src/assets/dark-street.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-image: url('./src/assets/euro.webp'); */
   background-color: #cccccc;
   /* background-blend-mode:overlay; */
   flex: 1;
@@ -151,7 +154,8 @@ body {
 }
 
 .feature {
-  background: white;
+  background-color: #cfe8c9;
+  /* background: white; */
   padding: 2rem;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
